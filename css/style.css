@@ -1,0 +1,65 @@
+.c-prev {
+    left: 90%;
+    bottom: 1% !important;
+}
+.c-next {
+    right: 0;
+    bottom: 1% !important;
+}
+
+.c-prev, .c-next {
+    top: 90%;
+    width: 5%;
+}
+.p-icon {
+    background-color: black;
+}
+.n-icon {
+    background-color: black;
+}
+.c-i {
+    right: 78%;
+    bottom: 80%;
+    left: auto;
+    display: block;
+}
+.carousel-indicators #a-i[data-bs-target] {
+    width: 20px;
+    height: 20px;
+    background-color: #000;
+}
+h5{
+    color: black;
+}
+/* slider 2 start */
+.banner{
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.slider{
+    background-color: rgba(1,1,1,.7) ;
+    color: white;
+    padding: 75px;
+}
+.slider h1{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.slider p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.slider button{
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+.d-i{
+    bottom: 30px;
+}
+.carousel-indicators #e-i[data-bs-target] {
+    border-radius: 50%;
+    width: 15px;
+    height: 14px;
+}
